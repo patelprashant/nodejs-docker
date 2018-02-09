@@ -1,0 +1,22 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "Docker file for Node.js Web Apps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/patelprashant/nodejs-docker"
+  },
+  "keywords": [
+    "dockerfile",
+    "nodejs"
+  ],
+  "author": "prashant.patel77@gmail.com",
+  "license": "ISC"
+}
